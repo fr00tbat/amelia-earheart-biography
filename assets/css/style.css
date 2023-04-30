@@ -29,6 +29,9 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
+#menu, #page-title {
+    line-height: 75px;
+}
 
 
 
