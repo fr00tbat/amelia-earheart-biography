@@ -29,6 +29,8 @@ h1, h2 {
     font-size: 80%;
     letter-spacing: 4px;
     text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 #menu, #page-title {
@@ -58,8 +60,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #100055;
+    border-bottom: 2px solid #100055;
 }
 
+.active {
+    border-bottom: 2px solid #100055;
+}
 
 
