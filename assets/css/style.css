@@ -19,6 +19,7 @@ h1, h2 {
     font-weight: 400;
     font-size: 40px;
     color: #100055;
+    text-decoration: none;
 }
 
 /*Navigational Links*/
@@ -36,10 +37,11 @@ h1, h2 {
 
 #page-title {
     text-align: center;
+    text-decoration: none;
 }
 
 #menu ul {
-    list-style-type:none;
+    list-style-type: none;
     display: flex;
     justify-content: center;
 } 
@@ -50,6 +52,14 @@ h1, h2 {
     /*  */
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #100055;
+}
 
 
 
