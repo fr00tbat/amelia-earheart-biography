@@ -1,15 +1,22 @@
-@import url("https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap")
+@import url("https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap");
 
 * {
     margin: 0;
     padding: 300;
-    border: none
+    border: none;
 }
 
 body {
-    font-family: 'Seaweed Script', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 200;
+    font-family: 'Seaweed Script', 'Brush Script MT', cursive;
+    font-weight: 400;
     font-size: 20px;
     color: #100055;
 }
 
+
+h1, h2 {
+    font-family: 'Seaweed Script', 'Brush Script MT', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    color: #100055;
+}
