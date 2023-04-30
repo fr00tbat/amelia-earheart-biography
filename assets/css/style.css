@@ -20,3 +20,15 @@ h1, h2 {
     font-size: 40px;
     color: #100055;
 }
+
+/*Navigational Links*/
+
+#menu {
+    font-family: Helvetica, sans-serif;
+    font-size: 80%;
+    letter-spacing: 4px;
+}
+
+
+
+
