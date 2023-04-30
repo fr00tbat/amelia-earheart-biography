@@ -33,5 +33,10 @@ h1, h2 {
     line-height: 75px;
 }
 
+#menu li {
+    display: inline-block;
+}
+
+
 
 
