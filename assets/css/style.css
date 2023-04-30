@@ -27,14 +27,27 @@ h1, h2 {
     font-family: Helvetica, sans-serif;
     font-size: 80%;
     letter-spacing: 4px;
+    text-align: center;
 }
 
 #menu, #page-title {
     line-height: 75px;
 }
 
-#menu li {
-    display: inline-block;
+#page-title {
+    text-align: center;
+}
+
+#menu ul {
+    list-style-type:none;
+    display: flex;
+    justify-content: center;
+} 
+
+#menu > li {
+    display: inline;
+    padding: 2%;
+    /*  */
 }
 
 
