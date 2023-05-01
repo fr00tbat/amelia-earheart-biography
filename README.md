@@ -2,7 +2,7 @@
 
 The Amelia Earheart Biography page is a small website about Amelia Earheart's life and accomplishments. The site is targeted toward people who might be interested to learn and know more about this elusive woman who is also so prominent as one of the first prominent female pilots. The site is intended to inform and to point interested people in the right direction for more information. It is also intended to promote to some extent a spirit of adventure in the same line as some of Earheart's adventures as a pilot and young woman. This biography and flight enthusiast page will also encourage its readers to fly and meet other people with similar interests.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup]()
 
 ## Features 
 
